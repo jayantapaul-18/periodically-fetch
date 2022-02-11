@@ -1,0 +1,3 @@
+GET http://localhost:3210/app/v1/periodically-fetch
+###
+GET http://localhost:3210/mock/some-api/access-token
